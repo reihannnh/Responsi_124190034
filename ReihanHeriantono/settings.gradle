@@ -1,0 +1,2 @@
+rootProject.name = "ReihanHeriantono_CovidData"
+include ':app'
